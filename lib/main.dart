@@ -7,16 +7,17 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Container(
-        color: Colors.red,
-        padding: const EdgeInsets.all(10.0),
-        child: Container(
-          color: Colors.green,
-          width: 100,
-          height: 100,
+    return Row(
+      children: [
+        Container(
+          color: Colors.red,
+          child: Text('Hello! ini kepanjangan dari apa?'),
         ),
-      ),
+        Container(
+          color: Colors.green,
+          child: Text('Selamat Tinggal'),
+        ),
+      ],
     );
   }
 }
