@@ -5,6 +5,8 @@
 - Membuat widget dapat merespon gestur long press.
 - Membuat widget dapat merespon gestur drag & pan.
 
+![ss drag](https://github.com/ihsanunot/Flutter-Basic-UI-One/assets/127992374/bce18ad2-0a44-40c7-a9c6-30245aea6947)
+
 
 **Template Pertama di main.dart**
 
