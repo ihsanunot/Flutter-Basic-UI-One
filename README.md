@@ -1,10 +1,13 @@
-# Belajar Flutter
+# Belajar Flutter Part 3
 
 ## CATATAN PENTING !
 
 **WAJIB** dijalanin di Android Emulator atau Smartphone Android Pribadi anda.
 
 **Jangan Run di Chrome/Desktop!** karena nanti ada Overflow yang berlebihan.
+
+![sscal](https://github.com/ihsanunot/Flutter-Basic-UI-One/assets/127992374/bceab4b5-0861-43af-894e-2ec3eeca57a5)
+
 
 
 ## Custom Widget
